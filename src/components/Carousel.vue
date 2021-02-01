@@ -104,6 +104,7 @@ export default {
 .carousel {
   height: 100vh;
   position: relative;
+  overflow: hidden;
 }
 
 .carousel__buttons .left-btn,
